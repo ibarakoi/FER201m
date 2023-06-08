@@ -1,0 +1,2 @@
+- successfully use npx create-react-app
+- succesfully use npm start
