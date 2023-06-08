@@ -1,0 +1,1 @@
+Update 'Navigation.js'; 'Players.js' into functional Components
