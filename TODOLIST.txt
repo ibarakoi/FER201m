@@ -1,0 +1,4 @@
+- Update file 'Players.js'
+- Create folder named 'shared' under 'src' foler
+- In 'shared' folder, create file 'ListOfPlayers.js'
+- User map() in 'Players.js'
