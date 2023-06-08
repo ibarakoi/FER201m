@@ -1,0 +1,4 @@
+Add new information to the ListofPlayers
+Add new code in the Player.js
+Add more syle to App.css
+Import useState
