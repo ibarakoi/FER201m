@@ -1,0 +1,5 @@
+- create folder 'assets' in 'public' folder
+- add images in 'assets' folder
+- add folder 'components' into 'src' folder
+- in 'components' folder create file 'Navigation.js'; 'Players.js'; 'Footer.js'
+- update file 'App.js'; 'App.css' 
